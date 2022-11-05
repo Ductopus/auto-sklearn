@@ -1,0 +1,21 @@
+生成Micro_16s_scale.csv为结局的AutoML,训练集与测试集比例由7:3
+          rank  ensemble_weight               type    cost   duration
+model_id                                                             
+15           1             0.08                mlp  0.1875   1.398731
+2            2             0.02      random_forest  0.3125   1.272196
+5           10             0.04      random_forest  0.3125   1.963735
+6            9             0.12      random_forest  0.3125   1.912363
+12          11             0.06      random_forest  0.3125   2.047568
+14           8             0.08      random_forest  0.3125   1.363653
+17           6             0.02        extra_trees  0.3125  18.262024
+18           5             0.02      random_forest  0.3125   1.855043
+23           4             0.04  gradient_boosting  0.3125   1.746818
+24           3             0.04      random_forest  0.3125   1.786466
+26           7             0.04      random_forest  0.3125   1.845004
+27          12             0.04        extra_trees  0.3125   1.807382
+4           16             0.06      random_forest  0.3750   1.480731
+8           14             0.04      random_forest  0.3750   1.794393
+11          13             0.22                mlp  0.3750   0.912844
+22          15             0.04                lda  0.3750   5.436173
+3           17             0.04                lda  0.4375   5.666914
+Accuracy score: 0.5454545454545454

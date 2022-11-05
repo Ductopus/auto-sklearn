@@ -1,0 +1,26 @@
+Dataset_ASD_ID.csv为结局的AutoML,训练集与测试集比例由.3
+          rank  ensemble_weight                 type      cost  duration
+model_id                                                                
+220         13             0.02         bernoulli_nb  0.196429  0.681606
+275         12             0.02         bernoulli_nb  0.196429  0.810238
+278          1             0.02         bernoulli_nb  0.196429  0.719741
+285         10             0.04         bernoulli_nb  0.196429  0.708303
+300          9             0.02         bernoulli_nb  0.196429  0.806083
+306          8             0.02         bernoulli_nb  0.196429  0.638020
+329          7             0.06         bernoulli_nb  0.196429  0.707130
+333          6             0.02         bernoulli_nb  0.196429  0.602741
+345          5             0.02         bernoulli_nb  0.196429  0.608398
+353          4             0.02         bernoulli_nb  0.196429  0.799392
+386          3             0.02         bernoulli_nb  0.196429  0.690686
+387          2             0.02         bernoulli_nb  0.196429  0.601997
+395         14             0.02         bernoulli_nb  0.196429  0.705648
+397         11             0.02         bernoulli_nb  0.196429  0.583276
+43          22             0.32          extra_trees  0.214286  1.262613
+75          21             0.18  k_nearest_neighbors  0.214286  0.584348
+159         20             0.06                  qda  0.214286  0.777882
+173         19             0.02         bernoulli_nb  0.214286  0.680313
+185         18             0.02         bernoulli_nb  0.214286  0.600930
+194         17             0.02         bernoulli_nb  0.214286  0.800250
+215         16             0.02         bernoulli_nb  0.214286  0.589086
+226         15             0.02         bernoulli_nb  0.214286  0.724268
+Accuracy score: 0.7123287671232876
